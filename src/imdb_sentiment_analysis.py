@@ -10,7 +10,7 @@ from nltk.corpus import stopwords
 nltk.download('stopwords')
 
 def load_data():
-    df = pd.read_csv('../data/imdb_reviews.csv')
+    df = pd.read_csv('../data/IMDB Dataset.csv')
     return df
 
 def preprocess_text(text):

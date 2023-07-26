@@ -1,5 +1,3 @@
-# project_sentiment_analysis
-
 This project performs sentiment analysis on IMDb movie reviews using machine learning.
 
 ## Installation
